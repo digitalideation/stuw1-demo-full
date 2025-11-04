@@ -4,9 +4,10 @@ This project showcases how to build a full-stack application using **Supabase's 
 
 It was built for the course Studio Web and Mobile I at HSLU Digital Ideation in Autumn 2025 by Nick Schneeberger.
 
-### Quicklink
+### Quicklinks
 
-[Tutorial for Media Uploads (Avatar)](profile)
+- [Tutorial for Media Uploads (Avatar)](profile.md)
+- [Tutorial for Google Login](google-login.md)
 
 ## 🎯 What This Project Demonstrates
 
