@@ -144,7 +144,8 @@ async function logout() {
 
 h1 {
   color: #333;
-  margin-bottom: 1rem;
+  margin-bottom: 5rem;
+  font-size: 10rem;
 }
 
 h2 {

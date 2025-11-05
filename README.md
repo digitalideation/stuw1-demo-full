@@ -6,6 +6,7 @@ It was built for the course Studio Web and Mobile I at HSLU Digital Ideation in 
 
 ### Quicklinks
 
+- [Tailwind CSS v4 Setup & Customization Guide](tailwind.md)
 - [Tutorial for Media Uploads (Avatar)](profile.md)
 - [Tutorial for Google Login](google-login.md)
 

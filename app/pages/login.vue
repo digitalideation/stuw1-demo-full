@@ -1,4 +1,5 @@
 <template>
+  <h1 class="text-blue-500 text-xl">Hello World!</h1>
   <ClientOnly>
     <div>
       <h1>Login</h1>
