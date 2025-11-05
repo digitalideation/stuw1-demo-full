@@ -248,21 +248,6 @@ Technically, Google is deprecating it, but the OAuth flow still requires it to b
 - Add your production URL to Google OAuth redirect URIs
 - Example: `https://myapp.com` needs its own redirect URI
 
-## Testing Mode vs Production
-
-When you create the OAuth app, it starts in **Testing** mode:
-
-- **Testing mode**: Only test users you add can log in
-- **Production mode**: Anyone with a Google account can log in
-
-To publish to production:
-
-1. Go to Google Cloud Console → **OAuth consent screen**
-2. Click **PUBLISH APP**
-3. Follow the verification process (if required)
-
-For learning/school projects, **Testing mode is fine** - just add your students as test users!
-
 ---
 
 **Want to add more auth providers?** Check out [Supabase Auth Docs](https://supabase.com/docs/guides/auth/social-login) for Facebook, GitHub, Discord, and more!
