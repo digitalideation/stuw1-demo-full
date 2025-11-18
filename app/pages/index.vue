@@ -1,6 +1,6 @@
 <template>
   <div class="todo-container">
-    <h1>Index Page</h1>
+    <h1>Index Page for Branch!</h1>
     <!-- User Profile Section -->
     <div v-if="user" class="profile-section">
       <div class="user-info">
